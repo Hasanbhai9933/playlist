@@ -1,0 +1,133 @@
+#EXTM3U 
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/358/logo/240x240/mobile_logo_048875001673178985.png" group-title="Toffee", TLC 
+https://toffee.iptvbd.xyz/api/tlc_sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/608/logo/240x240/mobile_logo_648826001673178929.png" group-title="Toffee",TLC HD
+https://toffee.iptvbd.xyz/api/tlc_hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18095/logo/240x240/mobile_logo_452964001673178334.png" group-title="Toffee", Investigation Discovery  
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
+
+#EXTINF:-1 tvg-logo="https://toffeelive.com/_next/image?url=https%3A%2F%2Fimages.toffeelive.com%2Fimages%2Fprogram%2F18094%2Flogo%2F240x240%2Fmobile_logo_154805001673178308.png&w=256&q=75" group-title="Toffee", Investigation Discovery HD 
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/379/logo/240x240/mobile_logo_775127001673177876.png" group-title="Toffee", Discovery Turbo 
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/378/logo/240x240/mobile_logo_604754001673177502.png" group-title="Toffee", Discovery Science 
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18097/logo/240x240/mobile_logo_297723001673195119.png" group-title="Toffee", Discovery 
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18093/logo/240x240/mobile_logo_868363001673181438.png" group-title="Toffee", Discovery HD
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8jHFz4k/download.png" group-title="Toffee",🏏 RTA Sports  
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8jHFz4k/download.png" group-title="Toffee",🏏 RTA Sports  
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8jHFz4k/download.png" group-title="Toffee",🏏 RTA Sports  
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8jHFz4k/download.png" group-title="Toffee",🏏 RTA Sports  
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8jHFz4k/download.png" group-title="Toffee",🏏 RTA Sports  
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8jHFz4k/download.png" group-title="Toffee",🏏 RTA Sports  
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8jHFz4k/download.png" group-title="Toffee",🏏 RTA Sports  
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8jHFz4k/download.png" group-title="Toffee",🏏 RTA Sports  
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8jHFz4k/download.png" group-title="Toffee",🏏 RTA Sports  
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8jHFz4k/download.png" group-title="Toffee",🏏 RTA Sports  
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8jHFz4k/download.png" group-title="Toffee",🏏 RTA Sports  
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8jHFz4k/download.png" group-title="Toffee",🏏 RTA Sports  
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8jHFz4k/download.png" group-title="Toffee",🏏 RTA Sports  
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8jHFz4k/download.png" group-title="Toffee",🏏 RTA Sports  
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8jHFz4k/download.png" group-title="Toffee",🏏 RTA Sports  
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8jHFz4k/download.png" group-title="Toffee",🏏 RTA Sports  
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8jHFz4k/download.png" group-title="Toffee",🏏 RTA Sports  
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8jHFz4k/download.png" group-title="Toffee",🏏 RTA Sports  
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8jHFz4k/download.png" group-title="Toffee",🏏 RTA Sports  
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8jHFz4k/download.png" group-title="Toffee",🏏 RTA Sports  
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8jHFz4k/download.png" group-title="Toffee",🏏 RTA Sports  
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8jHFz4k/download.png" group-title="Toffee",🏏 RTA Sports  
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8jHFz4k/download.png" group-title="Toffee",🏏 RTA Sports  
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8jHFz4k/download.png" group-title="Toffee",🏏 RTA Sports  
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8jHFz4k/download.png" group-title="Toffee",🏏 RTA Sports  
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8jHFz4k/download.png" group-title="Toffee",🏏 RTA Sports  
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8jHFz4k/download.png" group-title="Toffee",🏏 RTA Sports  
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8jHFz4k/download.png" group-title="Toffee",🏏 RTA Sports  
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8jHFz4k/download.png" group-title="Toffee",🏏 RTA Sports  
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8jHFz4k/download.png" group-title="Toffee",🏏 RTA Sports  
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8jHFz4k/download.png" group-title="Toffee",🏏 RTA Sports  
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8jHFz4k/download.png" group-title="Toffee",🏏 RTA Sports  
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8jHFz4k/download.png" group-title="Toffee",🏏 RTA Sports  
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8jHFz4k/download.png" group-title="Toffee",🏏 RTA Sports  
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8jHFz4k/download.png" group-title="Toffee",🏏 RTA Sports  
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8jHFz4k/download.png" group-title="Toffee",🏏 RTA Sports  
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
